@@ -1,0 +1,12 @@
+{
+  "machine": {
+    "outlets": {
+      "count_n": 4
+    },
+    "total_items_quantity": {
+      "hot_water": 30,
+      "hot_milk": 20
+    },
+    "beverages": {}
+  }
+}
